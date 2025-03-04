@@ -22,4 +22,4 @@ A full stack Airbnb clone built with Next.js, TypeScript, Supabase, shadcn/ui, a
 
 ## Visit Staybnb
 
-🔗 [Staybnb Live Demo](https://staybnb-camqvan.vercel.app/)
+🔗 [Staybnb Live Demo](https://camqvan.github.io/Staybnb/)
